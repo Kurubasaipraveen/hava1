@@ -1,0 +1,34 @@
+.sidebar {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.sidebar h2 {
+  background-color: #ff6347;
+  padding: 10px;
+  color: white;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.others {
+  margin-top: 20px;
+}
+
+.others h3 {
+  padding: 10px;
+}
+
+.others ul li {
+  padding: 10px;
+  cursor: pointer;
+}
